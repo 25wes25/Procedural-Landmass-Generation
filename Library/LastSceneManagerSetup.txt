@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Procedural Landmass Generation.unity
+  isLoaded: 1
+  isActive: 1
